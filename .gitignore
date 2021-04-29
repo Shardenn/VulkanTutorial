@@ -1,0 +1,7 @@
+Debug
+.vs
+x64
+*.user
+*.filters
+VulkanTest/Debug
+VulkanTest/x64
